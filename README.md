@@ -13,7 +13,7 @@ Este álbum é uma coleção de músicas simples, desenvolvidas para inspirar e 
 
 ## Capa do Álbum
 
-Para apreciar este álbum, [clique aqui](https://samuel-santana109.github.io/toDoList/) para acessar a página.
+Para apreciar este álbum, [clique aqui](https://samuel-santana109.github.io/album/) para acessar a página.
 
 ![Capa do Álbum](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
