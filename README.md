@@ -10,7 +10,7 @@ Um conjunto de músicas para acompanhar todos os momentos do seu dia a dia.
 
 ## Visualização
 <p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
- <a href="https://samuel-santana109.github.io/album/" target="_blank"> 
+ <a href=" https://samuel-santana109.github.io/album_design/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank"> 
  </a>
 
