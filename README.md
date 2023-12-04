@@ -17,19 +17,19 @@ Para apreciar este álbum, [clique aqui](https://samuel-santana109.github.io/toD
 
 ![Capa do Álbum](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
-## Instrumentos Utilizados
+ ## Tecnologias Utilizadas
+- Bootstrap 
+ - Html 
+ - Css 3
+ - Javascript 
+ - Git e GitHub 
 
-- Teclado 
-- Guitarra
-- Bateria 
-- Mixagem e Masterização
+## Explore 
+- Abra o arquivo index.html em seu navegador
+- Explore o site e divirta-se!
 
-## Reprodução 
-
-- **Adquira o álbum:** [Link para compra do álbum](https://github.com/Samuel-Santana109/projeto-toDo-List.git)
-- **Ouça as faixas em seu tocador de música favorito**
-- **Mergulhe nas melodias e divirta-se!**
 
 ## Colaboração 
 
-Colaborações são sempre bem-vindas! Se você encontrar alguma sugestão para uma nova música ou tiver ideias para melhorar a harmonia existente, sinta-se à vontade para compartilhar.
+<p> Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, 
+  sinta-se à vontade para abrir uma issue ou enviar um pull request.  </p>
