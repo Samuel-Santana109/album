@@ -1,4 +1,4 @@
-# Álbum TodoList
+# Álbum 
 
 Um conjunto de músicas para acompanhar todos os momentos do seu dia a dia.
 
@@ -10,11 +10,11 @@ Este álbum é uma coleção de músicas simples, desenvolvidas para inspirar e 
 - **Excluir canções da playlist**
 - **Filtrar músicas por estilo (concluídas/pendentes)**
 
-## Capa do Álbum
-
-Para apreciar este álbum, (https://samuel-santana109.github.io/album/) para acessar a página.
-
-![Capa do Álbum](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+## Visualização
+<p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
+ <a href="https://samuel-santana109.github.io/album/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank"> 
+ </a>
 
  ## Tecnologias Utilizadas
 - Bootstrap 
