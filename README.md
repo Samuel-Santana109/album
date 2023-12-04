@@ -2,8 +2,6 @@
 
 Um conjunto de músicas para acompanhar todos os momentos do seu dia a dia.
 
-Este álbum é uma coleção de músicas simples, desenvolvidas para inspirar e conectar-se com diferentes momentos da vida, tudo isso com uma pegada inicial na linguagem do JavaScript. Foi um dos meus primeiros projetos quando mergulhei no mundo da composição musical.
-
 ## Funcionalidades
 - **Adicionar ritmos à lista**
 - **Marcar melodias como concluídas**
