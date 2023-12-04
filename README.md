@@ -1,43 +1,35 @@
-# Projeto TodoList
- 
-Um aplicativo de lista de tarefas para ajudar na organização do seu dia a dia.
+# Álbum TodoList
 
+Um conjunto de músicas para acompanhar todos os momentos do seu dia a dia.
 
-<p> Este projeto consiste em um aplicativo de lista de tarefas simples, desenvolvido para fins de estudo e prática na linguagem JavaScript.
-  Foi um dos meus primeiros projetos quando iniciei minha carreira como desenvolvedor.
-</p>
+Este álbum é uma coleção de músicas simples, desenvolvidas para inspirar e conectar-se com diferentes momentos da vida, tudo isso com uma pegada inicial na linguagem do JavaScript. Foi um dos meus primeiros projetos quando mergulhei no mundo da composição musical.
 
-## Funcionalidades
-- Adicionar tarefas à lista
-- Marcar tarefas como concluídas
-- Excluir tarefas da lista
-- Filtrar tarefas por status (concluídas/pendentes)
+## Faixas
 
-## Visualização
+- **Adicionar ritmos à lista**
+- **Marcar melodias como concluídas**
+- **Excluir canções da playlist**
+- **Filtrar músicas por estilo (concluídas/pendentes)**
 
-<p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
+## Capa do Álbum
 
- <a href="https://samuel-santana109.github.io/toDoList/" target="_blank">
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank">
- </a>
+Para apreciar este álbum, [clique aqui](https://samuel-santana109.github.io/toDoList/) para acessar a página.
 
- ## Tecnologias Utilizadas
+![Capa do Álbum](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
- - Html 
- - Css 3
- - Javascript 
- - Git e GitHub 
- 
+## Instrumentos Utilizados
 
- ## Instalação 
+- Teclado 
+- Guitarra
+- Bateria 
+- Mixagem e Masterização
 
- - Clone o repositório: git clone https://github.com/Samuel-Santana109/projeto-toDo-List.git
+## Reprodução 
 
- - Abra o arquivo index.html em seu navegador
+- **Adquira o álbum:** [Link para compra do álbum](https://github.com/Samuel-Santana109/projeto-toDo-List.git)
+- **Ouça as faixas em seu tocador de música favorito**
+- **Mergulhe nas melodias e divirta-se!**
 
- - Explore o site e divirta-se!
+## Colaboração 
 
-## Contribuição 
-
-<p> Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, 
-  sinta-se à vontade para abrir uma issue ou enviar um pull request.  </p>
+Colaborações são sempre bem-vindas! Se você encontrar alguma sugestão para uma nova música ou tiver ideias para melhorar a harmonia existente, sinta-se à vontade para compartilhar.
