@@ -19,9 +19,10 @@ Um conjunto de músicas para acompanhar todos os momentos do seu dia a dia.
  - Html 
  - Css 3
  - Javascript 
- - Git e GitHub 
+ - Git e GitHub
 
-## Explore 
+## Explore e Instalação
+- Clone o repositório: [https://github.com/Samuel-Santana109/album_design.git)
 - Abra o arquivo index.html em seu navegador
 - Explore o site e divirta-se!
 
